@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [STM32.PrjPcb]
+   Generated File[Fabrication Testpoint Report for STM32.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:48:42 On 2020/8/24

@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+D:\AD20\STM32\Project Outputs for STM32\Pick Place for STM32.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/08/20
+Time:       20:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer       Footprint Center-X(mil) Center-Y(mil) Rotation 
+X2         8M            Mechanical1 JZ49S     1385.000      1335.000      90       
+X1         32.768K       TopLayer    JZ32768   705.002       442.284       90       
+U3         AT24C04       TopLayer    SOIC-8    1662.283      1420.000      0        
+U2         STM32F103C8T6 TopLayer    LQFP48    1256.356      816.758       315      
+U1         AMS1117-3.3   TopLayer    SOT223    201.441       1220.000      180      
+S2         SW-SPST       TopLayer    SMT-KEY   147.480       340.000       90       
+S1         SW-SPST       TopLayer    SMT-KEY   147.520       210.000       90       
+R12        1.5K          TopLayer    RC0603    529.232       645.000       0        
+R11        22R           TopLayer    RC0603    529.232       741.522       0        
+R10        22R           TopLayer    RC0603    529.232       838.045       0        
+R9         510R          TopLayer    RC0603    302.500       510.000       0        
+R8         500mA         TopLayer    0805      537.598       935.000       0        
+R7         10K           TopLayer    RC0603    1252.500      430.000       180      
+R6         0R            TopLayer    RC0603    687.500       645.000       0        
+R5         1M            TopLayer    RC0603    1225.000      1342.500      270      
+R4         10K           TopLayer    RC0603    970.000       1337.500      270      
+R3         0R            TopLayer    RC0603    687.500       741.522       0        
+R2         510R          TopLayer    RC0603    1417.500      330.000       180      
+R1         10K           TopLayer    RC0603    350.000       282.500       90       
+J6         Mini-USB      TopLayer    mini_USB  182.373       842.615       90       
+J5         "Header 20"   TopLayer    H_20      1085.000      1700.000      360      
+J4         TFT           TopLayer    H-8       1740.000      830.000       270      
+J3         "Header 20"   TopLayer    H_20      1090.000      65.000        360      
+J2         "Header 3X2"  TopLayer    H-3X2     194.961       1525.000      180      
+J1         "Header 10X2" TopLayer    JTAG_20P  2015.000      900.000       270      
+D2         LED0          TopLayer    LED0805   107.000       505.000       180      
+D1         LED0          TopLayer    LED0805   1248.000      330.000       0        
+C14        104           TopLayer    RC0603    767.500       1172.500      90       
+C13        104           TopLayer    RC0603    650.000       1172.500      90       
+C12        104           TopLayer    RC0603    650.000       1357.500      270      
+C11        104           TopLayer    RC0603    767.500       1357.500      270      
+C10        104           TopLayer    RC0603    1657.500      1580.000      180      
+C9         22pF          TopLayer    RC0603    1102.500      1295.000      0        
+C8         22pF          TopLayer    RC0603    1102.500      1390.000      0        
+C7         15P           TopLayer    RC0603    827.500       560.000       0        
+C6         15P           TopLayer    RC0603    827.500       320.000       0        
+C5         104           TopLayer    RC0603    520.000       1172.500      270      
+C4         104           TopLayer    RC0603    525.000       1357.500      90       
+C3         10uf          TopLayer    0805      420.000       1167.598      270      
+C2         10uf          TopLayer    0805      430.000       1352.401      90       
+C1         104           TopLayer    RC0603    460.000       282.500       90       
