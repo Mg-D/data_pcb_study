@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+D:\AD20\MyProject\Project Outputs for MyProject\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/09/20
+Time:       11:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description 
+C82        104               BottomLayer 0603C     2414.000      830.000       360      ""          
+C80        104               BottomLayer 0603C     1816.000      970.000       90       ""          
+C75        104               BottomLayer 0603C     2068.000      1268.000      90       ""          
+C74        104               BottomLayer 0603C     2071.000      1162.000      90       ""          
+C72        104               BottomLayer 0603C     1959.000      925.079       270      ""          
+C70        104               BottomLayer 0603C     2189.000      1127.000      360      ""          
+C7         104               BottomLayer 0603C     2018.000      1162.000      90       ""          
+C6         104               BottomLayer 0603C     1850.000      1190.000      180      ""          
+C5         104               BottomLayer 0603C     2104.000      1378.000      90       ""          
+C3         104               BottomLayer 0603C     2201.000      1000.000      360      ""          
+C2         104               BottomLayer 0603C     2221.000      1231.000      360      ""          
+U20        SST36VF1601       TopLayer    TSOP-48   411.842       1140.890      180      ""          
+Y2         32.768K           TopLayer    XTAL-D    1999.000      699.000       270      ""          
+Y1         13M               TopLayer    XTAL-D    1707.000      699.000       270      ""          
+U16        HY57V561620CLT    TopLayer    TSSOP-54  1191.000      1143.000      90       ""          
+U8         SP6669            TopLayer    SOT-23-5  2568.000      878.000       0        ""          
+U7         MAX811            TopLayer    MAX811    1012.000      351.000       0        ""          
+U1         LPC3250           TopLayer    TFBGA296  2069.205      1160.732      270      ""          
+RP1        10K               TopLayer    PZ-4-0.8B 638.252       1886.567      180      ""          
+R63        "120K 1%"         BottomLayer 0603R     1936.000      1105.000      90       ""          
+R48        10K               TopLayer    0603R     858.000       1239.000      270      ""          
+R44        "100K 1%"         TopLayer    0603R     2699.000      1141.000      180      ""          
+R23        "100K 1%"         TopLayer    0603R     2561.000      1142.000      180      ""          
+R17        10K               TopLayer    0603R     426.000       1625.000      90       ""          
+R16        10K               TopLayer    0603R     372.000       1625.000      90       ""          
+R15        10K               TopLayer    0603R     619.000       650.000       270      ""          
+R3         470               TopLayer    0603R     1118.000      350.000       90       ""          
+L1         2.2uH             TopLayer    0805      2531.000      1041.000      90       ""          
+J2         "CON_PLUG 42 x 2" TopLayer    DIP84     1349.000      2036.000      90       ""          
+J1         "CON_PLUG 42 x 2" TopLayer    DIP84     1295.000      140.000       90       ""          
+C66        12pF              TopLayer    0603C     2099.000      682.000       90       ""          
+C65        12pF              TopLayer    0603C     1890.000      682.000       90       ""          
+C64        22pF              TopLayer    0603C     1808.000      682.000       90       ""          
+C63        22pF              TopLayer    0603C     1601.000      683.921       270      ""          
+C62        "3.9nF 5%"        BottomLayer 0603C     1850.000      1136.000      180      ""          
+C61        "150pF 5%"        BottomLayer 0603C     1850.000      1074.000      180      ""          
+C49        104               TopLayer    0603C     1563.000      852.000       360      ""          
+C48        104               TopLayer    0603C     1565.000      985.000       360      ""          
+C47        104               TopLayer    0603C     1565.000      1143.000      360      ""          
+C46        104               TopLayer    0603C     783.000       1108.000      90       ""          
+C45        104               TopLayer    0603C     857.512       1108.000      90       ""          
+C44        103               TopLayer    0603C     856.000       923.000       90       ""          
+C42        104               TopLayer    0603C     786.000       923.000       90       ""          
+C39        104               TopLayer    0603C     2564.921      1336.000      360      ""          
+C37        104               TopLayer    0603C     2419.000      889.000       360      ""          
+C35        103               TopLayer    0603C     2564.921      1401.000      360      ""          
+C33        10uF              TopLayer    TC-3528   2309.000      733.000       360      ""          
+C31        10uF              TopLayer    TC-3528   2594.055      1241.000      360      ""          
+C30        104               TopLayer    0603C     391.000       848.000       180      ""          
+C23        22uF              TopLayer    TC-3528   2589.055      724.000       360      ""          
+C22        104               TopLayer    0603C     2560.000      633.000       360      ""          
+C9         104               TopLayer    0603C     885.000       348.000       270      ""          
+B1         B                 TopLayer    0603      2422.000      986.000       270      ""          
